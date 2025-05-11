@@ -1,0 +1,3 @@
+view -> index -> view -> presenter -> model
+
+yang akses ke presenter adalah view, bukan index. index mainin route
